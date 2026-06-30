@@ -2,7 +2,7 @@
 
 Sistem za izdajanje računov za malo podjetje, zgrajen v Google Sheets + Apps Script.
 
-Projekt je nastал kot migracija obstoječega Excel/VBA sistema v Google Sheets z namenom poenostavitve delovnega toka in omogočanja dostopa prek Google Drive.
+Projekt je nastаl kot migracija obstoječega Excel/VBA sistema v Google Sheets z namenom poenostavitve delovnega toka in omogočanja dostopa prek Google Drive.
 
 ---
 
